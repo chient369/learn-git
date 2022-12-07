@@ -1,2 +1,4 @@
 hoc git
 tao branch va push len remote
+----------
+tai nhanh issue1 : toi dang hoc git branch
