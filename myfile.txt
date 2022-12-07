@@ -2,3 +2,6 @@ hoc git
 tao branch va push len remote
 ------------
 quay lai main branch : toi dang chinh sua file tai main
+----------
+tai nhanh issue1 : toi dang hoc git branch
+
